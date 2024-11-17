@@ -16,7 +16,8 @@ To run the program:
 4. Unzip the MTG.zip file
 5. Navigate to the unzipped MTG folder in your command prompt
 6. Run the program by running the following command in the command prompt:
-    'python MTG.py'
+    `python MTG.py` or `python3 MTG.py` from within the directory where the MTG.py and 
+    MTG.db files are located
 
 Note:
 - If you have any issues running the program, please make sure you have
