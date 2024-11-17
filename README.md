@@ -17,7 +17,7 @@ See `README.txt` in the [user interface subdirectory](https://github.com/zcl1900
 
 ## SQL
 
-We used [Google Colab](https://colab.research.google.com/drive/1sKfJZSw1C05wswxeaGKIqP-SNRtmmVBz?usp=sharing#scrollTo=9_oJBStK3W8y), Python, and SQLite to create and initialize our relational database.
+We used [Google Colab](https://colab.research.google.com/drive/1sKfJZSw1C05wswxeaGKIqP-SNRtmmVBz?usp=sharing#scrollTo=9_oJBStK3W8y), Python, and SQLite to create and initialize our relational database.  Don't try to run the Python SQL statements locally, they only work in the colab notebook.
 
 ![image](https://github.com/user-attachments/assets/ba55ede2-0ca2-47c2-82be-da87052b81b0)
 
